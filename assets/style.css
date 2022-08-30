@@ -7,8 +7,8 @@ header,
 footer {
     width: 100%;
     height: 120px;
-    background-color: #17202A;
-    color: #17202A;
+    background-color: black;
+    color: black;
 }
 
 h1 {
@@ -19,6 +19,11 @@ h1 {
 
 h2 {
     text-align: center;
+}
+
+h3 {
+    text-align: center;
+    color: white;
 }
 
 img {
